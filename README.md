@@ -50,3 +50,7 @@ Neumorphism Design Analog Clock
 Neumorphism brings a unique, tactile feel to digital interfaces, making them more engaging and visually appealing. Designing an analog clock in this style can be an excellent way to experiment with this trend while creating a functional and aesthetically pleasing object.
 
 It is look likes : 
+
+![image](https://github.com/Shubh12-577/Neumorphism-Design-Analog-Clock/assets/86088965/51fd792a-a0db-4495-9c9d-bf5c3568179d)
+
+
